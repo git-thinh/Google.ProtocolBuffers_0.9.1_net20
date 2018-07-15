@@ -1,0 +1,4 @@
+E:\_cs\dotnet-protobufs-master\src\Google.ProtocolBuffers\bin\Debug\Google.ProtocolBuffers.dll
+E:\_cs\dotnet-protobufs-master\src\Google.ProtocolBuffers\bin\Debug\Google.ProtocolBuffers.pdb
+E:\_cs\dotnet-protobufs-master\src\Google.ProtocolBuffers\obj\Debug\Google.ProtocolBuffers.dll
+E:\_cs\dotnet-protobufs-master\src\Google.ProtocolBuffers\obj\Debug\Google.ProtocolBuffers.pdb
